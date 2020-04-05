@@ -7,6 +7,7 @@
 <url> <loc>https://nabdali.github.io/posts/docker-compose-for-beginners</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://nabdali.github.io/tag/dev</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://nabdali.github.io/tag/docker</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://nabdali.github.io/tag/docker-compose</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://nabdali.github.io/category/devops</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://nabdali.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
